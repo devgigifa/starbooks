@@ -1,8 +1,8 @@
-const { getAllFavourites, insertFavourite, deleteFavouriteById } = require("../services/favourite");
+const { getAllFavorites, insertFavorite, deleteFavoriteById } = require("../services/favorite");
 
-function getFavourites(req, res) {
+function getFavorites(req, res) {
     try {
-        const books = getAllFavourites();
+        const books = getAllFavorites();
         res.send(books);
     } catch (error) {
         res.status(500);
@@ -10,10 +10,10 @@ function getFavourites(req, res) {
     } 
 }
 
-function postFavourite(req, res) {
+function postFavorite(req, res) {
     try {
         const id = req.params.id;
-        insertFavourite(id);
+        insertFavorite(id);
         res.status(201);
         res.send("Book added successfully");
     } catch (error) {
@@ -22,13 +22,13 @@ function postFavourite(req, res) {
     }
 }
 
-function deleteFavourite(req, res) {
+function deleteFavorite(req, res) {
     try {
         const id = req.params.id;
 
         if(id && Number(id)) {
-            deleteFavouriteById(id);
-            res.send("Favourite deleted successfully");
+            deleteFavoriteById(id);
+            res.send("Favorite deleted successfully");
         } else {
             res.status(422);
             res.send("Invalid ID");
@@ -40,7 +40,7 @@ function deleteFavourite(req, res) {
 }
 
 module.exports = {
-    getFavourites,
-    postFavourite,
-    deleteFavourite
+    getFavorites,
+    postFavorite,
+    deleteFavorite
 };
