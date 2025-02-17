@@ -1,34 +1,82 @@
 [
-    {
-      "id": "4",
-      "name": "Entendendo algoritmos"
-    },
-    {
-      "id": "5",
-      "name": "Cangaceiro Javascript"
-    },
-    {
-      "id": "7",
-      "name": "Guia básico de C#"
-    },
-    {
-      "id": "8",
-      "name": "Guia básico de JavaScript"
-    },
-    {
-      "id": "9",
-      "name": "Código Limpo"
-    },
-    {
-      "id": "10",
-      "name": "JavaScript para iniciantes"
-    },
-    {
-      "id": "11",
-      "name": "Conhecendo o python"
-    },
-    {
-      "id": "12",
-      "name": "Imersão Alura"
-    }
-  ]
+  {
+    "id": "4",
+    "name": "Entendendo algoritmos",
+    "src": "http://localhost:8000/images/entendendo-algoritmos.png"
+  },
+  {
+    "id": "5",
+    "name": "Cangaceiro Javascript",
+    "src": "http://localhost:8000/images/cangaceiro-javascript.png"
+  },
+  {
+    "id": "7",
+    "name": "Guia básico de C#",
+    "src": "http://localhost:8000/images/guia-basico-de-csharp.png"
+  },
+  {
+    "id": "8",
+    "name": "Guia básico de JavaScript",
+    "src": "http://localhost:8000/images/guia-basico-de-javascript.png"
+  },
+  {
+    "id": "9",
+    "name": "Código Limpo",
+    "src": "http://localhost:8000/images/codigo-limpo.png"
+  },
+  {
+    "id": "10",
+    "name": "JavaScript para iniciantes",
+    "src": "http://localhost:8000/images/javascript-para-iniciantes.png"
+  },
+  {
+    "id": "11",
+    "name": "Conhecendo o python",
+    "src": "http://localhost:8000/images/conhecendo-o-python.png"
+  },
+  {
+    "id": "12",
+    "name": "Liderança em design",
+    "src": "http://localhost:8000/images/liderança-em-design.png"
+  },
+  {
+    "id": "13",
+    "name": "Cosmos",
+    "src": "http://localhost:8000/images/cosmos.png"
+  },
+  {
+    "id": "14",
+    "name": "A Breve História do Tempo",
+    "src": "http://localhost:8000/images/a-breve-historia-do-tempo.png"
+  },
+  {
+    "id": "15",
+    "name": "Astrofísica para Pessoas Apressadas",
+    "src": "http://localhost:8000/images/astrofisica-para-pessoas-apressadas.png"
+  },
+  {
+    "id": "16",
+    "name": "O Universo numa Casca de Noz",
+    "src": "http://localhost:8000/images/o-universo-numa-casca-de-noz.png"
+  },
+  {
+    "id": "17",
+    "name": "Breves Respostas para Grandes Questões",
+    "src": "http://localhost:8000/images/breves-respostas-para-grandes-questoes.png"
+  },
+  {
+    "id": "18",
+    "name": "50 ideias de astronomia",
+    "src": "http://localhost:8000/images/50-ideias-de-astronomia.png"
+  },
+  {
+    "id": "19",
+    "name": "Astronomia para Leigos",
+    "src": "http://localhost:8000/images/astronomia-para-leigos.png"
+  },
+  {
+    "id": "20",
+    "name": "Do átomo ao buraco negro",
+    "src": "http://localhost:8000/images/do-atomo-ao-buraco-negro.png"
+  }
+]
