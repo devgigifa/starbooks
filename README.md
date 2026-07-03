@@ -6,13 +6,7 @@ A full-stack book catalog application where users can browse a curated list of b
 
 ## 🎥 Demo
 
-<!-- After recording your demo, upload the video file to this repository and replace the link below -->
-
-> 📹 *Demo video coming soon!*
-
-<!-- To embed a video on GitHub, simply drag and drop the .mp4 file into this README while editing it on GitHub, or use the format below after uploading:
-[![Watch the demo](https://img.shields.io/badge/Watch-Demo-red?logo=youtube)](link-to-your-video)
--->
+<video src="https://github.com/devgigifa/starbooks/raw/master/.github/assets/demo.mp4" controls width="100%"></video>
 
 ---
 
