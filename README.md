@@ -6,7 +6,9 @@ A full-stack book catalog application where users can browse a curated list of b
 
 ## 🎥 Demo
 
-<video src="https://github.com/devgigifa/starbooks/raw/master/.github/assets/demo.mp4" controls width="100%"></video>
+![Screenshot 1](https://github.com/devgigifa/starbooks/raw/master/.github/assets/screenshot1.png)
+![Screenshot 2](https://github.com/devgigifa/starbooks/raw/master/.github/assets/screenshot2.png)
+![Screenshot 3](https://github.com/devgigifa/starbooks/raw/master/.github/assets/screenshot3.png)
 
 ---
 
